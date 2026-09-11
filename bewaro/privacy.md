@@ -49,6 +49,6 @@ If you are in the EU/EEA, you have the rights under the GDPR (access, rectificat
 ## Contact
 
 Kyberon (Ivo Janssen), the Netherlands
-E-mail: **support@kyberon.eu**
+E-mail: **bewaro@kyberon.eu**
 
 Changes to this policy will be posted on this page with a new date.

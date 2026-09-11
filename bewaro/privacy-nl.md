@@ -49,6 +49,6 @@ Onder de AVG heb je recht op inzage, correctie, verwijdering, beperking, overdra
 ## Contact
 
 Kyberon (Ivo Janssen), Nederland
-E-mail: **support@kyberon.eu**
+E-mail: **bewaro@kyberon.eu**
 
 Wijzigingen in deze verklaring worden op deze pagina geplaatst met een nieuwe datum.

@@ -49,6 +49,6 @@ Nach der DSGVO haben Sie das Recht auf Auskunft, Berichtigung, Löschung, Einsch
 ## Kontakt
 
 Kyberon (Ivo Janssen), Niederlande
-E-Mail: **support@kyberon.eu**
+E-Mail: **bewaro@kyberon.eu**
 
 Änderungen an dieser Erklärung werden auf dieser Seite mit neuem Datum veröffentlicht.

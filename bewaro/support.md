@@ -8,7 +8,7 @@ title: Bewaro — Support
 
 Questions, problems, or an idea for Bewaro? Send an e-mail and you will get a reply from the person who builds the app.
 
-**E-mail:** [support@kyberon.eu](mailto:support@kyberon.eu)
+**E-mail:** [bewaro@kyberon.eu](mailto:bewaro@kyberon.eu)
 
 **Publisher:** Kyberon (Ivo Janssen), the Netherlands
 

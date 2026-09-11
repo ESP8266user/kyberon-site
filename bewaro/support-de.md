@@ -9,7 +9,7 @@ lang: de
 
 Eine Frage, ein Problem oder eine Idee für Bewaro? Schreiben Sie eine E-Mail; Sie erhalten Antwort von der Person, die die App baut.
 
-**E-Mail:** [support@kyberon.eu](mailto:support@kyberon.eu)
+**E-Mail:** [bewaro@kyberon.eu](mailto:bewaro@kyberon.eu)
 
 **Anbieter:** Kyberon (Ivo Janssen), Niederlande
 
