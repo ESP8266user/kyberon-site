@@ -5,13 +5,13 @@ lang: en
 
 # Bewaro — Privacy Policy
 
-*Last updated: 21 September 2026* · [Nederlands](privacy-nl) · [Deutsch](privacy-de)
+*Last updated: 25 September 2026* · [Nederlands](privacy-nl) · [Deutsch](privacy-de)
 
-Bewaro is an iPhone app for keeping receipts, warranties, policies and contracts. It is built so that **your documents stay yours**: on your iPhone, or in your own iCloud Drive if you choose that. Bewaro has no server and never sees them. This page explains exactly what the app does and does not do with your data.
+Bewaro is an iPhone app for keeping receipts, warranties, policies and contracts. It is built so that **your documents stay yours**, on your iPhone. Bewaro has no server and never sees them. This page explains exactly what the app does and does not do with your data.
 
 ## What stays on your iPhone
 
-- **Your documents.** Every receipt, photo, PDF and the text the app reads from it is stored in a plain folder on your iPhone (*On My iPhone › Bewaro*), unless you choose iCloud (see below). The app has no server and no account. Nothing is ever uploaded to us.
+- **Your documents.** Every receipt, photo, PDF and the text the app reads from it is stored in a plain folder on your iPhone (*On My iPhone › Bewaro*). The app has no server and no account. Nothing is ever uploaded to us.
 - **Text recognition.** Reading text from a photo or scan happens on the device itself, using Apple's built-in text recognition. No image is sent anywhere.
 - **Contact details** found on a document (phone, e-mail, website) are extracted on the device and shown to you; they are not stored separately or sent anywhere.
 - **Reminders** are local notifications scheduled on your iPhone. They do not pass through any server.
@@ -19,15 +19,6 @@ Bewaro is an iPhone app for keeping receipts, warranties, policies and contracts
 - **Files are encrypted while your iPhone is locked**, using iOS data protection. This is always on.
 
 The archive folder is visible in the Files app. If you back up your iPhone with iCloud or a computer, the folder is included in that backup under Apple's terms, like any other app data.
-
-## If you choose iCloud
-
-iCloud is off by default. If you turn on **Keep in my iCloud** (in the app's Settings, or during setup), the archive folder moves to your own iCloud Drive (*iCloud Drive › Bewaro*) and is kept in sync on your devices signed in to the same Apple Account.
-
-- Apple stores it under Apple's iCloud terms. It is encrypted; with Advanced Data Protection for iCloud, where Apple offers it, only your own devices can read it.
-- Kyberon has no server and no access to your iCloud. We cannot see, read or delete your files.
-- It stays a plain folder you can open in the Files app.
-- Turning it off downloads everything, moves the folder back to this iPhone and removes it from iCloud.
 
 ## What Bewaro processes outside your iPhone: purchases only
 
@@ -51,7 +42,7 @@ Apple processes the payment itself under Apple's terms; Bewaro never sees your p
 
 ## Your rights
 
-Because your data is on your device or in your own iCloud Drive, you control it directly: delete a document in the app (it moves to a trash folder you can empty in Files), or delete the app to remove everything from your iPhone. If you use iCloud, turn it off first (the archive then moves back to your iPhone), or delete the Bewaro folder in iCloud Drive. To have RevenueCat delete the anonymous purchase record, contact us and we will request it; you can also contact RevenueCat directly.
+Because your data is on your device, you control it directly: delete a document in the app (it moves to a trash folder you can empty in Files), or delete the app to remove everything from your iPhone. To have RevenueCat delete the anonymous purchase record, contact us and we will request it; you can also contact RevenueCat directly.
 
 If you are in the EU/EEA, you have the rights under the GDPR (access, rectification, erasure, restriction, portability, objection). Your archive is already portable: it is a folder of your own files plus a CSV index.
 

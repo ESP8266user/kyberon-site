@@ -15,7 +15,7 @@ Eine Frage, ein Problem oder eine Idee für Bewaro? Schreiben Sie eine E-Mail; S
 
 ## Häufige Fragen
 
-**Wo sind meine Dokumente?** In einem normalen Ordner auf Ihrem iPhone: App „Dateien“ › Auf meinem iPhone › Bewaro. Jedes Original liegt dort, mit einer kleinen Textdatei daneben und einer `_index.csv`, die Sie in Numbers oder Excel öffnen können. Haben Sie **In meiner iCloud aufbewahren** eingeschaltet? Dann liegt derselbe Ordner in „Dateien“ › iCloud Drive › Bewaro.
+**Wo sind meine Dokumente?** In einem normalen Ordner auf Ihrem iPhone: App „Dateien“ › Auf meinem iPhone › Bewaro. Jedes Original liegt dort, mit einer kleinen Textdatei daneben und einer `_index.csv`, die Sie in Numbers oder Excel öffnen können.
 
 **Ich zahle nicht mehr. Was passiert?** Ihr Archiv bleibt lesbar und durchsuchbar, Erinnerungen kommen weiterhin, und der Export funktioniert weiter. Nur das Hinzufügen neuer Dokumente braucht ein aktives Abo.
 

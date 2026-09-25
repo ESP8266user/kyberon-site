@@ -14,7 +14,7 @@ Questions, problems, or an idea for Bewaro? Send an e-mail and you will get a re
 
 ## Common questions
 
-**Where are my documents?** In a plain folder on your iPhone: open the Files app › On My iPhone › Bewaro. Every original is there, with a small text file next to it and an `_index.csv` you can open in Numbers or Excel. Turned on **Keep in my iCloud**? Then the same folder is in Files › iCloud Drive › Bewaro.
+**Where are my documents?** In a plain folder on your iPhone: open the Files app › On My iPhone › Bewaro. Every original is there, with a small text file next to it and an `_index.csv` you can open in Numbers or Excel.
 
 **I stopped paying. What happens?** Your archive stays readable and searchable, reminders keep coming, and export keeps working. Only adding new documents needs an active plan.
 
